@@ -1,0 +1,14 @@
+themes,low_star_reviews,pct_of_low_star,all_reviews,pct_of_theme_that_is_low_star
+Booking & trip changes,111,13.6,179,62.0
+Cab allocation / routing / pooling,64,7.9,86,74.4
+Check-in / no-show / QR,43,5.3,56,76.8
+Crash / won't open / performance,120,14.7,158,75.9
+Driver conduct & safety,23,2.8,69,33.3
+Forced prompts (rating/policy/permissions),20,2.5,27,74.1
+Generic negative (no detail),220,27.0,1913,11.5
+Location / ETA / tracking,130,16.0,250,52.0
+Login / OTP / session,114,14.0,139,82.0
+Notifications,26,3.2,39,66.7
+Other / unclassified,62,7.6,157,39.5
+Support / ops management,66,8.1,86,76.7
+Usability / UI changes,68,8.3,207,32.9
